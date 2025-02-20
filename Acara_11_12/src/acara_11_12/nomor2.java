@@ -15,7 +15,6 @@ public class nomor2 {
         System.out.print("Masukkan jumlah deret array: ");
         int jumlahDeret = scanner.nextInt();
 
-       
         Random random = new Random();
 
         int[] randomArray = new int[jumlahDeret];
